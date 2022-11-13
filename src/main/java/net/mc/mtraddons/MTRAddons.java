@@ -64,6 +64,7 @@ public class MTRAddons {
         // Some common setup code
         LOGGER.info("HELLO FROM COMMON SETUP");
         LOGGER.info("DIRT BLOCK >> {}", ForgeRegistries.BLOCKS.getKey(Blocks.DIRT));
+        LOGGER.warn("最好不要将此 mod 与'地铁视听享受优化包'一起使用。 此mod已包含此内容。");
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
