@@ -1,4 +1,4 @@
-# MTR_Addons
+# MTR Addons
 A MTR mod's addon.
 # Support Versions
 |Minecraft Version|Mod API|Latest Mod Version|Support status|
