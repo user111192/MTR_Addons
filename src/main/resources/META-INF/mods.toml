@@ -42,7 +42,7 @@ authors = "Chen" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description = '''
-
+A MTR mod's addon.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.mtr_addons]] #optional
