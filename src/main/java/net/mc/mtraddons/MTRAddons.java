@@ -1,6 +1,7 @@
 package net.mc.mtraddons;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.CrashReport;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
