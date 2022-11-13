@@ -88,6 +88,7 @@ public class MTRAddons {
             LOGGER.warn("最好不要将此 mod 与'地铁视听享受优化包'一起使用。 此mod已包含此内容。");
             LOGGER.info("此mod已包含'地铁视听享受优化包', 音符盒音乐部分将被替换! ");
             LOGGER.debug("音符盒音乐部分已被替换. ");
+            LOGGER.warn("音符盒音乐部分已被覆盖. 可能会破坏你的地图! ");
         }
     }
 }
