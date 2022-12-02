@@ -73,7 +73,7 @@ authors = "酒师酸菌, Chen" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description = '''
-A MTR mod's addon.
+视听觉优化包
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.mtr_addons]] #optional
