@@ -5,6 +5,7 @@ plugins {
 
 group = 'net.mc'
 version = '1.19.2-0.0.1.2'
+spversion = '1.19.2-0.0.1.2'
 
 java {
     archivesBaseName = 'MTRAddons'
